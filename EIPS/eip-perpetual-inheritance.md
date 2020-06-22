@@ -20,7 +20,7 @@ Helping people safely maintain custody of their digital assets remains one of th
 <!--A short (~200 word) description of the technical issue being addressed.-->
 
 ## Motivation
-The value of lost cryptocurrency (sent to non-existent addresses, lost keys, and ) exceeds that of stolen cryptocurrency by approximately 4x
+The value of lost cryptocurrency (sent to non-existent addresses or held in unreachable wallets) exceeds that of stolen cryptocurrency by a significant proportion (approximately 4x, according to our estimate).
 
 <!--The motivation is critical for EIPs that want to change the Ethereum protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the EIP solves. EIP submissions without sufficient motivation may be rejected outright.-->
 
